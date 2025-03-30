@@ -1,0 +1,19 @@
+Capstone Project - Website Ideas Submission
+Below are three potential ideas for my Capstone Project, each including a description, purpose, and possible API integration.
+________________________________________
+1. BookBuddy – Personalized Book Discovery Platform
+•	Description: A website where users can search for books, save favorites, write reviews, and receive AI-powered book recommendations based on their reading history.
+•	Purpose: To help readers track their reading, find new books, and connect with others who love similar genres.
+•	Potential API: Google Books API
+________________________________________
+2. NomadPlan – Travel Planner for Remote Workers
+•	Description: An interactive map that allows users to explore cities ideal for remote work, with data on internet speed, cost of living, safety, and available coworking spaces.
+•	Purpose: To support digital nomads in finding the best cities to live and work remotely.
+•	Potential API: Nomad List API or custom backend from public data sources.
+________________________________________
+3. FitLife Tracker – Wellness and Workout Journal
+•	Description: A full-stack wellness app where users can log workouts, track meals, monitor progress, and receive motivational content and suggestions.
+•	Purpose: To help users stay accountable and improve both physical and mental health in one central dashboard.
+•	Potential API: Nutritionix API or a custom backend with user-generated data.
+________________________________________
+These ideas reflect my current interests in wellness, travel, and media, and can be expanded based on feedback. 
